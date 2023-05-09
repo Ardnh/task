@@ -1,0 +1,24 @@
+{
+  "name": "task-vue-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pinia": "^2.0.36",
+    "primeflex": "^3.3.0",
+    "primeicons": "^6.0.1",
+    "primevue": "^3.28.0",
+    "vue": "^3.2.47",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@vitejs/plugin-vue": "^4.1.0",
+    "vite": "^4.3.2"
+  }
+}
